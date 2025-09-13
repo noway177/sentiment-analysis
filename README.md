@@ -1,4 +1,4 @@
-# Feeling Analysis Project
+# Sentiment Analysis Project
 
 Ce projet implémente un modèle d'analyse de sentiment utilisant PyTorch. Il inclut des scripts pour l'entraînement, l'évaluation et le test du modèle.
 
