@@ -22,11 +22,7 @@ Ce projet implémente un modèle d'analyse de sentiment utilisant PyTorch. Il in
   python testfinal.py
   ```
 
-## Auteur
 
-# 🧠 Feeling Analysis Project
-
-> Un projet d'analyse de sentiment basé sur PyTorch, pour détecter et analyser les émotions dans des textes. 📊💬
 
 ## 📁 Structure du projet
 - `data.py` : Préparation et gestion des données (chargement, nettoyage, vectorisation)
